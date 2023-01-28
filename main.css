@@ -3,7 +3,7 @@
   padding: 0;
   box-sizing: border-box;
 }
-header h1,
+header,
 section h2 {
   font-family: "Bungee", cursive;
 }
