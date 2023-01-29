@@ -15,12 +15,6 @@ header {
   background-color: #182c61;
   color: #ecf0f1;
 }
-
-header nav {
-  display: flex;
-  justify-content: flex-end;
-}
-
 header nav li {
   display: inline;
   margin-right: 16px;
